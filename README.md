@@ -14,3 +14,6 @@
 - 📫 How to reach me: I'm looking for you
 - 😄 Pronouns: Python, Django, NUmPy, Javascript, html, css, aws
 - ⚡ Fun fact: I like pizza 🍕
+- ⛷ I love winter and snow
+🐮
+
