@@ -1,11 +1,10 @@
-### Hi there 👋
 
 # Titulo
 ## subtitulo
 ### subsubtitulo
 🌭 HOT DOG CODE
 🎷 Go Lisa Go
-- Soy una persona enojona 😠
+-⛵ Soy una persona enojona 😠
 - 🔭 I’m currently working on Freelancer
 - 📙 I'm techer at Educacion IT since 2017
 - 🌱 I’m currently learning VUE.JS
