@@ -1,8 +1,6 @@
 
-# Titulo
-## subtitulo
-### subsubtitulo
-🌭 HOT DOG CODE
+⬆️ Up skill - termine mi curso de git!!1
+
 🎷 Go Lisa Go
 -⛵ Soy una persona enojona 😠
 - 🔭 I’m currently working on Freelancer
