@@ -1,6 +1,13 @@
 
 ⬆️ Up skill - termine mi curso de git!!1
 # Developer
+
+## Sub titulo
+
+### titulo seccion
+
+    <html> urra </html>
+
 🎷 Go Lisa Go
 -⛵ Soy una persona enojona 😠
 - 🔭 I’m currently working on Freelancer
