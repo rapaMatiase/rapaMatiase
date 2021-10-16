@@ -22,4 +22,4 @@
 - ⛷ I love winter and snow
 🐮
 🏀 I play baskell
-![Verdura](https://github.com/rapaMatiase/rapaMatiase/blob/main/business-g7700ea65f_1920.jpg)
+
